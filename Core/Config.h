@@ -300,6 +300,7 @@ public:
 
 	// Networking
 	bool bEnableWlan;
+	bool bEnableAdhocServer;
 	int iWlanAdhocChannel;
 	bool bWlanPowerSave;
 
